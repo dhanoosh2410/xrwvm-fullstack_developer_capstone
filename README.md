@@ -1,5 +1,8 @@
 # fullstack_developer_capstone
 
+## Repository Name
+xrwvm-fullstack_developer_capstone
+
 ## Project Overview
 
 This project is a full stack dealership web application built as part of the Full Stack Application Developer capstone. The application provides a starter Django-based backend and frontend structure that can be extended with additional pages and features.
